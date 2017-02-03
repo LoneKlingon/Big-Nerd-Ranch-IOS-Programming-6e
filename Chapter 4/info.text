@@ -1,0 +1,6 @@
+Chapter 4 this time Fahrenheit to Celsius program was given a gui and programmed to take basic input.
+An Introduction to Apple Delegates was discussed as we implemented UITextFieldDelegate methods into 
+the class project. Using delegate methods we were able to restrict accepted input on the screen. 
+The bronze challenge invovled restricting all alphabetical inputs. This was accomplished using String
+methods. Furthermore other issues not covered in the chapter or bronze challenge such as making the program
+more robust were addressed. Preventing errors on inputs when "." was presed before a number for example. 
