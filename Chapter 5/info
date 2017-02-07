@@ -1,0 +1,5 @@
+Change Log (Chapter 5) 
+
+- Added a MapViewcontroller to the project. 
+- Added a tab bar controller to link the two different controllers.
+- ConversionViewController now changes background depending on time of day. 
