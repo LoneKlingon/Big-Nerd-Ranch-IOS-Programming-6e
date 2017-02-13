@@ -1,0 +1,5 @@
+change log
+
+- Programatically created the mapview interface.  
+- Added three mapview types to the mapview : Satellite, Hybrid and Standard
+- Completed Bronze Challenge 
