@@ -1,0 +1,10 @@
+Change Log
+===================================
+- Added French Localization Support to WorldTrotter App
+- Added support for , decimal separator regions
+- Created a NSLocalized String table to store Map buttons
+- Generated localized String for Fr translations
+- Created a XLIFF file for localization 
+
+To Do
+ - Add image for web icon
